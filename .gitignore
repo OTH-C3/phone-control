@@ -1,0 +1,6 @@
+# 运行时由 templates/config.env.template 自动生成的本地配置，含个人路径，不入库
+scripts/config.env
+
+# python 编译缓存
+__pycache__/
+*.pyc

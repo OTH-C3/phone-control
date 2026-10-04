@@ -1,0 +1,23 @@
+{
+  "name": "phone-control",
+  "version": "0.6.0",
+  "description": "操作与读取 Android 手机屏幕：读当前页面、连续滚动读长内容、按名字点按或输入、点完等界面真的变了、提交前核对不可逆操作。只用 adb，不装 App、不改手机设置。",
+  "author": {
+    "name": "OTH-C3"
+  },
+  "homepage": "https://github.com/OTH-C3/phone-control",
+  "repository": "https://github.com/OTH-C3/phone-control",
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "adb",
+    "automation",
+    "ui",
+    "screenshot",
+    "input",
+    "testing"
+  ],
+  "skills": [
+    "./"
+  ]
+}

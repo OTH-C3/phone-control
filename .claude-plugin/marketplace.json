@@ -1,0 +1,24 @@
+{
+  "name": "phone-control",
+  "owner": {
+    "name": "OTH-C3"
+  },
+  "metadata": {
+    "description": "操作与读取 Android 手机屏幕的一套现成技能，纯 adb 实现"
+  },
+  "plugins": [
+    {
+      "name": "phone-control",
+      "description": "操作与读取 Android 手机屏幕：读当前页面、连续滚动读长内容、按名字点按或输入、点完等界面真的变了、提交前核对不可逆操作。",
+      "source": "./",
+      "category": "automation",
+      "keywords": [
+        "android",
+        "adb",
+        "ui",
+        "automation",
+        "testing"
+      ]
+    }
+  ]
+}
